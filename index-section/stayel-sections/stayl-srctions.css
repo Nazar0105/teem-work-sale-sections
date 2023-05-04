@@ -149,3 +149,15 @@ img {
     letter-spacing: -0.01em;
     color: rgba(20, 20, 20, 0.5);
 }
+
+/* .abaut-clock {
+    display: flex;
+    gap: 50px;
+} */
+
+.sale-img {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
