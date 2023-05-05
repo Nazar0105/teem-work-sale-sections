@@ -61,7 +61,7 @@ img {
     font-style: normal;
     font-weight: 600;
     font-size: 40px;
-    line-height: 44px;
+    line-height: 1.1;
     letter-spacing: -0.02em;
     color: #1E2827;
 
@@ -72,7 +72,7 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 38px;
-    line-height: 40px;
+    line-height: 1.5;
     letter-spacing: -0.02em;
     color: #141414;
 }
@@ -82,7 +82,7 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 18px;
+    line-height: 1.2;
     letter-spacing: -0.02em;
     color: rgba(20, 20, 20, 0.5);
 }
@@ -92,7 +92,7 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 1.3;
     letter-spacing: -0.02em;
     color: #141414;
 }
@@ -102,7 +102,7 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
-    line-height: 14px;
+    line-height: 1.16;
     letter-spacing: -0.02em;
     text-decoration-line: line-through;
     color: rgba(20, 20, 20, 0.5);
@@ -113,7 +113,7 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 1.3;
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #141414;
@@ -124,7 +124,7 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 18px;
+    line-height: 1.2;
     letter-spacing: -0.01em;
     color: rgba(20, 20, 20, 0.5);
 }
@@ -134,7 +134,7 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 24px;
+    line-height: 1.3;
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #141414;
@@ -145,19 +145,18 @@ img {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 18px;
+    line-height: 1.2;
     letter-spacing: -0.01em;
     color: rgba(20, 20, 20, 0.5);
 }
 
-/* .abaut-clock {
+.img-container-n {
     display: flex;
-    gap: 50px;
-} */
+    gap: 20px;
+}
 
 .sale-img {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
-
