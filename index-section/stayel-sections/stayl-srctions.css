@@ -64,7 +64,8 @@ img {
     line-height: 1.1;
     letter-spacing: -0.02em;
     color: #1E2827;
-
+    margin-bottom: 80px;
+    margin-right: 13px;
 }
 
 .description-title {
@@ -75,6 +76,9 @@ img {
     line-height: 1.5;
     letter-spacing: -0.02em;
     color: #141414;
+    margin-bottom: 8px;
+    max-width: 396px;
+    
 }
 
 .product-code {
@@ -85,6 +89,13 @@ img {
     line-height: 1.2;
     letter-spacing: -0.02em;
     color: rgba(20, 20, 20, 0.5);
+    margin-bottom: 16px;
+}
+
+.price {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 40px;
 }
 
 .min-price {
@@ -117,6 +128,7 @@ img {
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #141414;
+    margin-bottom: 17px;
 }
 
 .description-clock-text {
@@ -127,6 +139,8 @@ img {
     line-height: 1.2;
     letter-spacing: -0.01em;
     color: rgba(20, 20, 20, 0.5);
+    margin-bottom: 20px;
+    max-width: 396px;
 }
 
 .characteristic-title {
@@ -138,6 +152,7 @@ img {
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #141414;
+    margin-bottom: 9px;
 }
 
 .characteristic-text {
@@ -148,6 +163,7 @@ img {
     line-height: 1.2;
     letter-spacing: -0.01em;
     color: rgba(20, 20, 20, 0.5);
+    max-width: 396px;
 }
 
 .img-container-n {
@@ -159,4 +175,8 @@ img {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.abaut-clock {
+    padding-right: 98px;
 }
